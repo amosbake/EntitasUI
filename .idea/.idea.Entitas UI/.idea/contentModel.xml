@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_Entitas UI.1315055100.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Library" t="Include">
+          <e p="Entitas" t="Include">
+            <e p="Compile.cs" t="Include" />
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="RootSystemBehaviour.cs" t="Include" />
+          <e p="TickLabelBehaviour.cs" t="Include" />
+        </e>
+        <e p="Sources" t="Include">
+          <e p="Generated" t="Include">
+            <e p="Contexts.cs" t="Include" />
+            <e p="Feature.cs" t="Include" />
+            <e p="Game" t="Include">
+              <e p="Components" t="Include">
+                <e p="GameDebugMessageComponent.cs" t="Include" />
+                <e p="GameTickComponentsComponent.cs" t="Include" />
+                <e p="GameTickListenerComponent.cs" t="Include" />
+              </e>
+              <e p="GameAttribute.cs" t="Include" />
+              <e p="GameComponentsLookup.cs" t="Include" />
+              <e p="GameContext.cs" t="Include" />
+              <e p="GameEntity.cs" t="Include" />
+              <e p="GameMatcher.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="InputAttribute.cs" t="Include" />
+              <e p="InputComponentsLookup.cs" t="Include" />
+              <e p="InputContext.cs" t="Include" />
+              <e p="InputEntity.cs" t="Include" />
+              <e p="InputMatcher.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="src" t="Include">
+          <e p="Components.cs" t="Include" />
+          <e p="Features.cs" t="Include" />
+          <e p="Systems.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Entitas UI.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
